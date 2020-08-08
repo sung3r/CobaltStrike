@@ -24,6 +24,9 @@
 
 ## 三、上线提醒
 
+- [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
+- WeChatPush
+
 ## 四、综合框架
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
@@ -32,6 +35,7 @@
 
 ## 五、权限提升
 
+- weichi
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
 
 ## 六、漏洞攻击
