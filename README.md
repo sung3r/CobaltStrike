@@ -20,12 +20,15 @@
 
 ## 二、免杀处理
 
+- [BypassAV](https://github.com/hack2fun/BypassAV)
+
 ## 三、上线提醒
 
 ## 四、综合框架
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
+- [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 
 ## 五、权限提升
 
