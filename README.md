@@ -16,17 +16,25 @@
 
 @pandasec888、@k8gege、@QAX-A-Team、@rsmudge
 
-## 一、综合框架
+## 一、功能辅助
+
+## 二、免杀处理
+
+## 三、上线提醒
+
+## 四、综合框架
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
 
-## 二、上线提醒
-
-## 三、权限提升
+## 五、权限提升
 
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
 
-## 四、痕迹清理
+## 六、漏洞攻击
+
+- [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
+
+## 七、痕迹清理
 
 - [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
