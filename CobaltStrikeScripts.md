@@ -1,7 +1,0 @@
-# CobaltStrikeScripts
-
-CobaltStrikeScripts
-
-CobaltStrikeScripts
-
-CobaltStrikeScripts
