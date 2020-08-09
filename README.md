@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月8日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月9日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -14,7 +14,7 @@
 
 感谢下列作者们：
 
-@pandasec888、@k8gege、@QAX-A-Team、@rsmudge
+@pandasec888、@k8gege、@QAX-A-Team、@rsmudge、......
 
 ## 一、功能辅助
 
