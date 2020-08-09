@@ -37,6 +37,7 @@
 
 - weichi
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
+- [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
 
 ## 六、漏洞攻击
 
