@@ -21,6 +21,7 @@
 ## 二、免杀处理
 
 - [BypassAV](https://github.com/hack2fun/BypassAV)
+- [Arsenal-Kits](https://github.com/Cliov/Arsenal)
 
 ## 三、上线提醒
 
@@ -39,10 +40,14 @@
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
 - [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
 
-## 六、漏洞攻击
+## 六、漏洞扫描
 
 - [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
 
 ## 七、痕迹清理
 
 - [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
+
+## 八、其他脚本
+
+- NoPowerShell
