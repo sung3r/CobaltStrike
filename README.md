@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月9日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月11日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -39,6 +39,7 @@
 - weichi
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
 - [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
+- [SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS)
 
 ## 六、漏洞扫描
 
