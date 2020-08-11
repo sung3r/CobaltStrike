@@ -44,6 +44,7 @@
 ## 六、漏洞扫描
 
 - [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
+- [CVE-2020-0796](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)
 
 ## 七、痕迹清理
 
