@@ -32,6 +32,7 @@
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
+- [CrossC2](https://github.com/gloxec/CrossC2)
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 
 ## 五、权限提升
@@ -57,3 +58,4 @@
 ## 九、其他脚本
 
 - NoPowerShell
+- https://github.com/darkr4y/geacon
