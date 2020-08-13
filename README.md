@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月12日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年8月13日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -32,6 +32,7 @@
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
+- [Aggressor](https://github.com/k8gege/Aggressor)
 - [CrossC2](https://github.com/gloxec/CrossC2)
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 
@@ -54,8 +55,15 @@
 ## 八、痕迹清理
 
 - [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
+- [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
 ## 九、其他脚本
 
 - NoPowerShell
 - https://github.com/darkr4y/geacon
+- https://github.com/vysecurity/ANGRYPUPPY
+- https://github.com/001SPARTaN/aggressor_scripts
+- https://github.com/harleyQu1nn/AggressorScripts
+- https://github.com/bluscreenofjeff/AggressorScripts
+- https://github.com/mgeeky/cobalt-arsenal
+
