@@ -34,6 +34,7 @@
 - [Ladon](https://github.com/k8gege/Ladon)
 - [Aggressor](https://github.com/k8gege/Aggressor)
 - [CrossC2](https://github.com/gloxec/CrossC2)
+- [Erebus](https://github.com/DeEpinGh0st/Erebus)
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 
 ## 五、权限提升
@@ -66,4 +67,8 @@
 - https://github.com/harleyQu1nn/AggressorScripts
 - https://github.com/bluscreenofjeff/AggressorScripts
 - https://github.com/mgeeky/cobalt-arsenal
+- https://github.com/zer0yu/Awesome-CobaltStrike
+- https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
+- https://github.com/TheKingOfDuck/XSS-Fishing2-CS
+- https://github.com/timwhitez/XSS-Phishing
 
