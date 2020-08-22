@@ -71,4 +71,5 @@
 - https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
 - https://github.com/TheKingOfDuck/XSS-Fishing2-CS
 - https://github.com/timwhitez/XSS-Phishing
+- https://github.com/alphaSeclab/cobalt-strike
 
