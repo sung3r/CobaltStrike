@@ -16,7 +16,9 @@
 
 @pandasec888、@k8gege、@QAX-A-Team、@rsmudge、......
 
-## 一、功能辅助
+## 一、持久上线
+
+- [StayKit](https://github.com/0xthirteen/StayKit)
 
 ## 二、免杀处理
 
@@ -36,6 +38,7 @@
 - [CrossC2](https://github.com/gloxec/CrossC2)
 - [Erebus](https://github.com/DeEpinGh0st/Erebus)
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
+- https://github.com/wafinfo/cobaltstrike
 
 ## 五、权限提升
 
@@ -48,6 +51,7 @@
 
 - [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
 - [CVE-2020-0796](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)
+- [MS17-010](https://github.com/phink-team/Cobaltstrike-MS17-010)
 
 ## 七、流量隧道
 
